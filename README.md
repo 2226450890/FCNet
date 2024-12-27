@@ -28,19 +28,19 @@ PyTorch: 1.11
 CUDA: 11.3
 
 ## Evaluation
-&emsp;1. We are providing our pretrained model, and the evaluation code can be used without the training. Download pretrained model from OneDrive: [link](https://stuscaueducn-my.sharepoint.com/:u:/g/personal/3170062_stu_scau_edu_cn/EV5-CSBgb2NPmBfWz_ks9woBKOb5vc42cW4BG6IfWQF4rQ?e=ydp6FM).
+1. We are providing our pretrained model, and the evaluation code can be used without the training. Download pretrained model from Mega: [link](https://mega.nz/file/fB8x0BgZ#X2hnO_fnn3fAUrLxHwn5zWICjpxYQyYU0hwxAGlL26E).
 
-&emsp;2. Modify the model directory in the test. py file.
+2. Modify the model directory in the test.py file.
 
-&emsp;3. Evaluate the model.
+3. Evaluate the model.
 ```
 python test.py
 ```
 
 ## Training
-&emsp;1. Configure the files required to run, and modify the root path in the "train.py" based on your dataset location.  
+1. Configure the files required to run, and modify the root path in the "train.py" based on your dataset location.  
 
-&emsp;2. Run train.py.
+2. Run train.py.
 ```
 python train.py
 ```  
