@@ -45,5 +45,5 @@ python test.py
 python train.py
 ```  
 
-Please cite the following article：
-[[link](https://doi.org/10.1016/j.compag.2025.111172)](https://doi.org/10.1016/j.compag.2025.111172) 
+## Citing
+[https://doi.org/10.1016/j.compag.2025.111172](https://doi.org/10.1016/j.compag.2025.111172) 
